@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Blue Eyes White Dragon",
+        "img": "/assets/cardImages/blueEyesWhiteDragon.jpg", 
+        "category": "Yu-Gi-Oh"
+    },
+    {
+        "name": "Big Pikachu", 
+        "img": "/assets/cardImages/pikachu.jpg", 
+        "category": "Pokemon"
+    },
+    {
+        "name": "Leona",
+        "img": "/assets/cardImages/leona.webp",  
+        "category": "Legends of Runeterra"
+    },
+    {
+        "name": "Zoro",
+        "img": "/assets/cardImages/zoro.jpg",  
+        "category": "One Piece"
+    }
+]
