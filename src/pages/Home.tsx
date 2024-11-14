@@ -18,6 +18,7 @@ const Home = () => {
     }
   };
 
+  console.log("Help");
   // NEXT STEP: add buttons when 3 cards are picked to navigate to card reading
 
   return (
